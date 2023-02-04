@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ltinsley6087
 - 👀 I’m interested in ... learning to code
-- 🌱 I’m currently learning ... code I guess, lol
+- 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
